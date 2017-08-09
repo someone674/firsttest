@@ -4,6 +4,7 @@ public class newfile {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		new newfile().isHello("Hello");
+		System.out.println("end");
 	}
 	public boolean isHello(String str){
 		if("Hello".equals(str)){
