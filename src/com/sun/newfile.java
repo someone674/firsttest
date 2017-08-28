@@ -15,4 +15,10 @@ public class newfile {
 		return false;
 	}
 
+    public void testa(){
+        int a;
+    }
+
+
+
 }
