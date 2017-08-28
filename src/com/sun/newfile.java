@@ -18,7 +18,9 @@ public class newfile {
     public void testa(){
         int a;
     }
-
+    public  String str(){
+        System.out.println("str()");
+    }
 
 
 }
